@@ -1,0 +1,79 @@
+/* Estilo padrão */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(https://st2.depositphotos.com/3840453/8071/i/380/depositphotos_80719620-stock-photo-empty-wooden-table-and-blurred.jpg);
+    background-size: cover;
+    color: #372d2d;
+}
+img{
+    width: 700px;
+    height: 500px;
+    ;
+    
+
+}
+.subti-laran{
+    color:#f88307
+
+}
+
+/* Header */
+header {
+    background-color: #ffffff; 
+    color: #f88307; 
+    padding: 10px 0;
+    text-align: center;
+}
+
+h2{
+    color: #f88307;
+}
+header h1 {
+    margin: 0;
+    font-size: 2em;
+    justify-content: center;
+    
+}
+
+/* Menu  */
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    background-color: #f88307;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #100c08; 
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    color: #f88307; 
+    background-color: #000000; 
+    padding: 5px 10px;
+}
+
+/*  Seções */
+section {
+    padding: 20px;
+    background-color: #ffffff; 
+    color: #100b06; 
+    margin-bottom: 10px;
+}
+
+/* arte de baixo */
+footer {
+    background-color: #f88307;
+    color: #0a0806; 
+    text-align: center;
+    padding: 40px;
+}
